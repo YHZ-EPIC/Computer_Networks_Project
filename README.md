@@ -74,8 +74,8 @@ applications that require Streaming from Multiple Stations simultaneously.
 
 ## References
 
-[1] Krushna Shah (2020) Multicasting Multimedia Over IP [Source Code]
+[1] Krushna Shah (2020) Multicasting Multimedia Over IP [Source Code] \
 https://github.com/Krushna153/Multicasting-multimedia-over-IP
-\
-[2] Akshay Gopani (2020) Internet Radio Over IP Multicast [Source Code]
+
+[2] Akshay Gopani (2020) Internet Radio Over IP Multicast [Source Code] \
 https://github.com/akshaygopani/Internet-Radio-Over-IP-Multicast
